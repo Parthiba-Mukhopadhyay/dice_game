@@ -1,0 +1,34 @@
+.container{
+    background-color:cadetblue;
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+
+.master{
+    background-color: darkcyan;
+}
+
+.player{
+    width: 30%;
+    text-align: center;
+    display: inline-block;
+}
+
+.dice{
+    width: 70%;
+}
+
+h3{
+    font-size: 4rem;
+    color:antiquewhite;
+    font-family: 'Indie Flower', cursive;
+}
+
+h1{
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color:azure;
+}
