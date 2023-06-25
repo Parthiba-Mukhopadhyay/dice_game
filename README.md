@@ -1,5 +1,3 @@
-# dice_game
-
 # Dice Roll Web App
 
 This is a simple web application that allows two players to roll virtual dice and determine the winner based on the higher number rolled. 
@@ -14,7 +12,6 @@ This is a simple web application that allows two players to roll virtual dice an
 
 ## Check out the website here
 <br> https://mydicegame23.netlify.app/
-
 
 ## How to Use
 
