@@ -1,6 +1,7 @@
 .container{
     background-color:cadetblue;
     margin: auto;
+    padding: 2%;
     width: 70%;
     text-align: center;
 }
@@ -16,19 +17,34 @@
 }
 
 .dice{
-    width: 70%;
+    width: 50%;
 }
 
 h3{
-    font-size: 4rem;
+    font-size: 3rem;
     color:antiquewhite;
     font-family: 'Indie Flower', cursive;
 }
 
 h1{
-    margin: 30px;
+    margin:20px;
     font-family: 'Lobster', cursive;
     text-shadow: 5px 0 #232931;
-    font-size: 8rem;
+    font-size: 5rem;
     color:azure;
+}
+
+.butt{
+    text-align: center;
+}
+
+.btn{
+    color:blanchedalmond;
+    background-color:darkblue;
+    width: 20%;
+    font-size: 2rem;
+    margin: 5%;
+    font-family: monospace;
+    padding: 10px;
+    border-radius: 12px;
 }
